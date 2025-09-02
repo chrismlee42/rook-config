@@ -18,5 +18,4 @@ resources:
   - https://github.com/rook/rook/raw/refs/tags/v1.18.1/deploy/examples/common.yaml
   - https://github.com/rook/rook/raw/refs/tags/v1.18.1/deploy/examples/csi-operator.yaml
   - https://github.com/rook/rook/raw/refs/tags/v1.18.1/deploy/examples/operator.yaml
-  - https://github.com/rook/rook/raw/refs/tags/v1.18.1/deploy/examples/toolbox.yaml
   # - namespace.yaml
