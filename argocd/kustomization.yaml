@@ -14,8 +14,8 @@ namespace: rook
 
 resources:
   # Determine latest stable version from https://github.com/rook/rook/releases
-  - https://github.com/rook/rook/raw/refs/tags/v1.18.1/deploy/examples/crds.yaml
-  - https://github.com/rook/rook/raw/refs/tags/v1.18.1/deploy/examples/common.yaml
-  - https://github.com/rook/rook/raw/refs/tags/v1.18.1/deploy/examples/csi-operator.yaml
-  - https://github.com/rook/rook/raw/refs/tags/v1.18.1/deploy/examples/operator.yaml
-  # - namespace.yaml
+  # - https://github.com/rook/rook/raw/refs/tags/v1.18.1/deploy/examples/crds.yaml
+  # - https://github.com/rook/rook/raw/refs/tags/v1.18.1/deploy/examples/common.yaml
+  # - https://github.com/rook/rook/raw/refs/tags/v1.18.1/deploy/examples/csi-operator.yaml
+  # - https://github.com/rook/rook/raw/refs/tags/v1.18.1/deploy/examples/operator.yaml
+  - namespace.yaml
